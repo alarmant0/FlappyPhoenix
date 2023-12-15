@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flappy Phoenix</string>
+    <string name="restart">Restart</string>
+</resources>
